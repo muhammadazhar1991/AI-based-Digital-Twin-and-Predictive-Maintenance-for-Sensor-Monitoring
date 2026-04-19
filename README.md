@@ -113,3 +113,7 @@ This system can be used for:
 
 Muhammad Azhar Mehboob
 
+Author: Muhammad Azhar Mehboob  
+Role: Developer & Designer  
+Project: AI-based Digital Twin & Predictive Maintenance System  
+GitHub: https://github.com/muhammadazhar1991/AI-based-Digital-Twin-and-Predictive-Maintenance-for-Sensor-Monitoring/edit/main/README.md
