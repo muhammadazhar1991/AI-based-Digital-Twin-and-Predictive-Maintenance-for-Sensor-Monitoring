@@ -13,7 +13,7 @@ This project is a MATLAB-based Digital Twin system for real-time sensor monitori
 - 🛠 Maintenance analysis dashboard
 
 ## Demo
-https://youtu.be/9X2GirqrllU
+https://youtu.be/9X2GirqrllU - See the project in action.
 
 
 ## 📁 Folder Structure
