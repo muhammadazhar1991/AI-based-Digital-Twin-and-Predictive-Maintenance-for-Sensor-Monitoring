@@ -18,7 +18,7 @@ https://youtu.be/9X2GirqrllU - See the project in action.
 
 ## 📁 Folder Structure
 
-
+```text
 AI-based DigitalTwin and Predictive Maintenance/
 │
 ├── matlab app files/
