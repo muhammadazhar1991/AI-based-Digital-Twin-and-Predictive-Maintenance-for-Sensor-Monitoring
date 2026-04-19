@@ -12,6 +12,10 @@ This project is a MATLAB-based Digital Twin system for real-time sensor monitori
 - ❤️ Sensor health monitoring (Drift, Noise, Health Score)
 - 🛠 Maintenance analysis dashboard
 
+## Demo
+https://youtu.be/9X2GirqrllU
+
+
 ## 📁 Folder Structure
 
 
