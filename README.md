@@ -1,4 +1,4 @@
-# 🔧 AI-Based Digital Twin and Predictive Maintenance for Sensor Monitoring
+# 🔧 AI-Based Digital Twin and Predictive Maintenance App for Sensor Monitoring
 
 This project is a MATLAB-based Digital Twin system for real-time sensor monitoring, anomaly detection, and predictive maintenance.
 
